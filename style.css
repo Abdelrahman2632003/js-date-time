@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.demo{
+    border:1px solid black;
+    width: 600px;
+    text-align: center;
+    margin: 20px auto;
+    height: 150px;
+    padding: 10px;
+}
+
+.demo p {
+    color: rgb(214, 1, 1);
+}
+
+.date-time{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.lable-date{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
+}
+
+.l-date{
+}
+
+
+.date{
+    width: 150px;
+    border:1px solid black;
+    
+    
+}
+
+
+.lable-time{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.l-time{
+}
+
+.time{
+    width: 150px;
+    border:1px solid black;
+    /* margin: 0 40px ; */
+    
+}
+
+
+
+
+
+
+
+
+
+
+
